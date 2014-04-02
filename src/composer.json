@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "stable",
+    "require": {
+        "pda/pheanstalk": "v2.1.0",
+        "swiftmailer/swiftmailer": "~5.1"
+    }
+}
